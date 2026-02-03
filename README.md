@@ -1,5 +1,3 @@
-# UnifiedApplicationDatabase
-
 # Unified Application Database (UAD)
 
 A modular and normalized SQL Server database designed to support **multiple application domains** using a single schema.  
